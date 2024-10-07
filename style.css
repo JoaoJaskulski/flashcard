@@ -1,5 +1,11 @@
+
+
+
+
+
+
 body{
-    background-color: bisque;
+    background: url('bg-desktop.webp');
     }
     #container {
     display: flex;
