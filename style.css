@@ -1,6 +1,6 @@
 
 body{
-    background: url(assets/img/bg-desktop');
+    background: url(assets/img/bg-desktop'), no-repeat cover;
     }
     #container {
     display: flex;
