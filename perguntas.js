@@ -1,23 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Lua?',
-    'Lua é uma linguagem de programação'
+    'CONHECIMENTOS GERAIS',
+    'De quem é a famosa frase “Penso, logo existo”?',
+    'Descartes.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Finlândia?',
-    'A capital da Finlândia é Helsinque'
+    'QUÍMICA',
+    'Atualmente, quantos elementos químicos a tabela periódica possui?',
+    '118'
 )
 
 criaCartao(
-    'Culinária',
-    'Quais são os pratos típicos da Itália?',
-    'Os pratos mais típicos da Itália são: Pizza,Ravioli, Spaghetti, Lasagna, Risotto e Arancino'
+    'PORTUGUÊS',
+    'Qual é o plural de "coração"?',
+    'Corações.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz romã em Inglês?',
-    'Romã em ingles é pomegranate'
+    'ARTE',
+    'Quem pintou a obra "A Última Ceia?',
+    'Leonardo da Vinci.'
+)
+
+criaCartao(
+    'BIOLOGIA',
+    'Qual a função dos ribossomos  na célula?',
+    'Produzir proteínas.'
+)
+
+criaCartao(
+    'MATEMÁTICA',
+    ' Qual é a fórmula da área de um triângulo?',
+    'Área = (base x altura)/2'
 )
