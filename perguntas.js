@@ -1,35 +1,33 @@
 criaCartao(
-    'CONHECIMENTOS GERAIS',
-    'De quem é a famosa frase “Penso, logo existo”?',
-    'Descartes.'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
+)
+
+
+criaCartao(
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'QUÍMICA',
-    'Atualmente, quantos elementos químicos a tabela periódica possui?',
-    '118'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
-
 criaCartao(
-    'PORTUGUÊS',
-    'Qual é o plural de "coração"?',
-    'Corações.'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
-
 criaCartao(
-    'ARTE',
-    'Quem pintou a obra "A Última Ceia?',
-    'Leonardo da Vinci.'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
-
 criaCartao(
-    'BIOLOGIA',
-    'Qual a função dos ribossomos  na célula?',
-    'Produzir proteínas.'
-)
-
-criaCartao(
-    'MATEMÁTICA',
-    ' Qual é a fórmula da área de um triângulo?',
-    'Área = (base x altura)/2'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
